@@ -44,7 +44,7 @@ This is a simple Vue.js notes app that allows you to add and display notes with 
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## Contributions
 
